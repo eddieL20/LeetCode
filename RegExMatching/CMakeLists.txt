@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.1)
+project(RegExMatching)
+add_executable(RegExMatching main.cpp Solution.cpp)
+target_compile_options(RegExMatching PRIVATE -g)
+set(CMAKE_CXX_STANDARD 23)

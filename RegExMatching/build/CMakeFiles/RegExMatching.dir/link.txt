@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/RegExMatching.dir/main.cpp.o CMakeFiles/RegExMatching.dir/Solution.cpp.o -o RegExMatching 

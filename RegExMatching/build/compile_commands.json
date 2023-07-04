@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/eddie/Workspace/Leet/RegExMatching/build",
+  "command": "/usr/bin/g++   -g -g -o CMakeFiles/RegExMatching.dir/main.cpp.o -c /home/eddie/Workspace/Leet/RegExMatching/main.cpp",
+  "file": "/home/eddie/Workspace/Leet/RegExMatching/main.cpp"
+},
+{
+  "directory": "/home/eddie/Workspace/Leet/RegExMatching/build",
+  "command": "/usr/bin/g++   -g -g -o CMakeFiles/RegExMatching.dir/Solution.cpp.o -c /home/eddie/Workspace/Leet/RegExMatching/Solution.cpp",
+  "file": "/home/eddie/Workspace/Leet/RegExMatching/Solution.cpp"
+}
+]
