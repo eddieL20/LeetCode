@@ -1,0 +1,13 @@
+height = [1, 8, 6, 2, 5, 4, 8, 3, 7]
+output = 49
+max = 0
+
+- height is the difference between index
+- width is the min width between two values at any given index
+
+a := 0
+b := len(height) - 1
+
+while a < b:
+    
+
