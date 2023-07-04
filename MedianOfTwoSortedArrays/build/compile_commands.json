@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/eddie/Workspace/Leet/MedianOfTwoSortedArrays/build",
+  "command": "/usr/bin/g++   -g -g -o CMakeFiles/Median.dir/main.cpp.o -c /home/eddie/Workspace/Leet/MedianOfTwoSortedArrays/main.cpp",
+  "file": "/home/eddie/Workspace/Leet/MedianOfTwoSortedArrays/main.cpp"
+},
+{
+  "directory": "/home/eddie/Workspace/Leet/MedianOfTwoSortedArrays/build",
+  "command": "/usr/bin/g++   -g -g -o CMakeFiles/Median.dir/Solution.cpp.o -c /home/eddie/Workspace/Leet/MedianOfTwoSortedArrays/Solution.cpp",
+  "file": "/home/eddie/Workspace/Leet/MedianOfTwoSortedArrays/Solution.cpp"
+}
+]
