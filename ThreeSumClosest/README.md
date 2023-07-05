@@ -1,9 +1,9 @@
-#Notes
+### Notes
 ___
 ```
 [-1, 2, 1, 4], target = 2, n = 4
 ```
-###Return the sum of the three integers cloest to the target
+##### Return the sum of the three integers cloest to the target
 
 * range of values ``-1000 <= nums[i] <= 1000``
   * ``result = 1000`` 
@@ -15,7 +15,7 @@ ___
 
 ---
 
-###First iteration
+##### First iteration
 ```
 nums[0] + nums[1] + nums[3] --> -1 + 1 + 4 = 4
 ```
