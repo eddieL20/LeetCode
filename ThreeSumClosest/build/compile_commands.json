@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/eddie/Workspace/Leet/ThreeSumClosest/build",
+  "command": "/usr/bin/g++   -g -g -o CMakeFiles/ThreeSumClosest.dir/main.cpp.o -c /home/eddie/Workspace/Leet/ThreeSumClosest/main.cpp",
+  "file": "/home/eddie/Workspace/Leet/ThreeSumClosest/main.cpp"
+}
+]

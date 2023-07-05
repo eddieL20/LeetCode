@@ -125,8 +125,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/home/eddie/Workspace/Leet/ThreeSum/build",
-		"source" : "/home/eddie/Workspace/Leet/ThreeSum"
+		"build" : "/home/eddie/Workspace/Leet/ThreeSumClosest/build",
+		"source" : "/home/eddie/Workspace/Leet/ThreeSumClosest"
 	},
 	"version" : 
 	{
