@@ -8,9 +8,9 @@ ___
 * range of values ``-1000 <= nums[i] <= 1000``
   * ``result = 1000`` 
 * create a for loop starting at ``i=0``
-  * 1^st^ index is ``i``
-  * 2^nd^ index is ``left = i+1``
-  * 3^rd^ index is ``right = n-1``
+  * 1<sup>st</sup> index is ``i``
+  * 2<sup>nd</sup> index is ``left = i+1``
+  * 3<sup>rd</sup> index is ``right = n-1``
 * put the vector values in order `` [-1, 1, 2, 4] ``
 
 ---
