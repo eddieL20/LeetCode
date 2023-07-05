@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/eddie/Workspace/Leet/LetterCombinationPhone/build",
+  "command": "/usr/bin/g++   -g -g -o CMakeFiles/LetterCombos.dir/main.cpp.o -c /home/eddie/Workspace/Leet/LetterCombinationPhone/main.cpp",
+  "file": "/home/eddie/Workspace/Leet/LetterCombinationPhone/main.cpp"
+}
+]
